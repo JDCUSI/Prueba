@@ -1,0 +1,11 @@
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\obj\Debug\cNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cNegocio.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cNegocio.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cDatos.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cEntidades.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cDatos.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\bin\Debug\cEntidades.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\obj\Debug\cNegocio.csproj.AssemblyReference.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\obj\Debug\cNegocio.csproj.CopyComplete
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\obj\Debug\cNegocio.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cNegocio\obj\Debug\cNegocio.pdb

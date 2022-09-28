@@ -1,0 +1,5 @@
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cEntidades\obj\Debug\cEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cEntidades\bin\Debug\cEntidades.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cEntidades\bin\Debug\cEntidades.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cEntidades\obj\Debug\cEntidades.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\cEntidades\obj\Debug\cEntidades.pdb

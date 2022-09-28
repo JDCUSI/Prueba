@@ -1,0 +1,17 @@
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.csproj.AssemblyReference.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.Form1.resources
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.Properties.Resources.resources
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.csproj.GenerateResource.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.csproj.CoreCompileInputs.cache
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\PRUEBA_JD.exe.config
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\PRUEBA_JD.exe
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\PRUEBA_JD.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cEntidades.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cNegocio.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cDatos.dll
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cEntidades.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cNegocio.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\bin\Debug\cDatos.pdb
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.csproj.CopyComplete
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.exe
+C:\Users\jdcus\Desktop\JUAN_CUSTODIO\PRUEBA_JD\obj\Debug\PRUEBA_JD.pdb
